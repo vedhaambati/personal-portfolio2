@@ -111,17 +111,23 @@ body{
   }
  
   .blocks{
- display: inline-flex;
- color: #000;
+  color: #000;
  display: flex;
- justify-content: center;
+  }
+
+  .blocks h3{
+   margin: 10px 0px;
+   align-content: center;
+  }
+
+  .blocks-box h3{
+   margin: 10px 0px;
+   align-content: center;
   }
     
   .blocks-box{
-   display: inline-flex;
-   color: #000;
+     color: #000;
    display: flex;
-   justify-content: center;
   }
 
 
